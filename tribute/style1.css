@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient(top rgb(130, 88, 17,bottom rgb(227, 141, 155)));
+    background-color: rgb(199, 162, 121);
+
+}
+.name{
+    color: rgb(23, 2, 24);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+
+    position:relative;
+    left:40%;
+}
+.information{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(219, 41, 50);
+}
+
+.Profession{
+    text-align: center;
+    color: rgb(92, 8, 8);
+}
+
+.BORN{
+    text-align: center;
+    color: rgb(8, 96, 141);
+}
+.DIED{
+    text-align: center;
+    color:  rgb(8, 96, 141);
+}
+
+.DEATH{
+    text-align: center;
+    color:  rgb(8, 96, 141);
+}
+
+.ACTIVE{
+    text-align: center;
+    color:  rgb(8, 96, 141);
+}
+
+.page{
+    text-align: center;
+    color: rgb(200, 212, 28);
+    color: rgb(25, 103, 167);
+}
